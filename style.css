@@ -1,0 +1,32 @@
+header h1{
+ text-align: center; 
+}
+main img{
+  width:700px;
+  float: center;
+}
+main p{
+  text-align: center;
+}
+nav a{
+  color: gold;
+  padding-right: 60px;
+}
+body{
+ background-image:url(https://cdn-bgp.bluestacks.com/BGP/ru/gametiles_com.dts.freefireth.jpg); 
+}
+nav{
+  margin:10px;
+  text-align: center; 
+}
+h1{
+  color:darkgoldenrod;
+
+}
+footer img{
+   width: 180px;
+ height: 180px; 
+}
+p{
+  color:rgb(71, 14, 242);
+}
